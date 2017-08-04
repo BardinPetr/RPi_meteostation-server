@@ -1,0 +1,19 @@
+{
+  "name": "rpi_meteostation-server",
+  "version": "0.1.0",
+  "description": "RaspberryPI meteostation server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BardinPetr/RPi_meteostation-server.git"
+  },
+  "author": "Bardin Petr",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BardinPetr/RPi_meteostation-server/issues"
+  },
+  "homepage": "https://github.com/BardinPetr/RPi_meteostation-server#readme"
+}
